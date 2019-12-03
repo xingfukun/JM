@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lantian.waiyu</string>
+				<string>com.Viiva.iOS.China</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>92外语</string>
+				<string>Viiva</string>
 			</dict>
 		</dict>
 	</array>
